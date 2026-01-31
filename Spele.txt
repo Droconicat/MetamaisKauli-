@@ -20,14 +20,22 @@ Apraksts
 Ja divi izmesto kauliņu summa ir lielāks vai vienāds ar roletu bumbiņas skaitli tad tu vinē.
 
 Specifikācijas
-
-
+Var nospiest pogu kas ģenerē vienu nejaušu skaitli.
+Un otru pogu nospiest kas ģenerēs divas nejaušus skaitļus kur ja summa ir lielāka par pirmo skaitli tad ir "vinēts"
 
 Testpiemēru kopu
-
+Nospiest augšējo pogu, nomainās augšējā teksts. ()
+Nospiest apakšējo pogu, nomainās apakšējie divi teksti. ()
 
 
 Versija 3
+
 Takā galdaspēle kur katrā gājienā uzmet kauliņu tu aizeij uz priekšu uzmesto skaitu reizes un ja tu pēc gājiena esi us galamerķa vietu tad tu vinē.
 Un ja aizej garām tad tu vari aiziet aplī.
 
+Specifikācijas
+Var Nospiest augšējo pogu kur tad tiek ģenerēts nejaujš skaitlis, kur tad mēs pakustamies pa sarakstu "apļu ceļu"
+
+Testpiemēru kopu
+Nospiest pogu, var redzēt ka kauliņš iet pa "ceļu" ()
+Ja kauliņš sasniedz galamērķi tad teksts parādas kur rakstīts "Tu vinē!" ()
