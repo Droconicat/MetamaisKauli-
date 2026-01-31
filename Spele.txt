@@ -1,0 +1,33 @@
+Versija 1
+Ja metamais kauliņš uzrulējas uz tavu izvēlēto skaitli tad tu vinē!
+
+Versija 2
+Ja divi izmesto kauliņu summa ir lielāks vai vienāds ar roletu bumbiņas skaitli tad tu vinē.
+
+Versija 3
+Takā galdaspēle kur katrā gājienā uzmet kauliņu tu aizeij uz priekšu uzmesto skaitu reizes un ja tu pēc gājiena esi us galamerķa vietu tad tu vinē.
+Un ja aizej garām tad tu vari aiziet aplī.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
