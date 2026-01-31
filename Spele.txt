@@ -1,9 +1,33 @@
 Versija 1
+
+Apraksts
 Ja metamais kauliņš uzrulējas uz tavu izvēlēto skaitli tad tu vinē!
 
+Specifikācijas
+Var nomainīt augšējo skaitli no 1 līdz 6.
+Un kad nospiežot pogu tiek rullēts nejauš skaitlis no 1 līdz 6 un ja gan skaitlī ir vienādi tad teksts apakša ir zaļš.
+
+Testpiemēru kopu
+Nomainīt augšējo skaitli ()
+Nospiest pogu ()
+Vai pēc nospiežot pogu apakšējais vai augšējais teksts tika izmainīti ()
+Vai kad gan skaitļi ir vienādi, tad apakšējais teksts ir zaļš un ir rakstīts "Tu vinēji!" ()
+
+
 Versija 2
+
+Apraksts
 Ja divi izmesto kauliņu summa ir lielāks vai vienāds ar roletu bumbiņas skaitli tad tu vinē.
+
+Specifikācijas
+
+
+
+Testpiemēru kopu
+
+
 
 Versija 3
 Takā galdaspēle kur katrā gājienā uzmet kauliņu tu aizeij uz priekšu uzmesto skaitu reizes un ja tu pēc gājiena esi us galamerķa vietu tad tu vinē.
 Un ja aizej garām tad tu vari aiziet aplī.
+
